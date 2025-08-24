@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manumay&label=Profile%20views&color=0e75b6&style=flat" alt="manumay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshadha&label=Profile%20views&color=0e75b6&style=flat" alt="akshadha" /> </p>
 
 - 🌱 I'm Enhancing WebDev skills and deepening DSA knowledge.**
 
