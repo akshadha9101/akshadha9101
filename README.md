@@ -7,8 +7,6 @@
 
 - 🌱 I'm Enhancing WebDev skills and deepening DSA knowledge.**
 
-- 💬 Ask me about **DSA and Web Development**
-
 - 📫 How to reach me **akshadha4s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
